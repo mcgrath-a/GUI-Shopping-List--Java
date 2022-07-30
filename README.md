@@ -1,6 +1,6 @@
 # GUI-Shopping-List--Java
 
-Project Description: To build a simple GUI program to keep track of a shopping list. The program allows users to add, delete and display items. Press 'play' button below to see the code in action.
+Project Description: To build a simple GUI program to keep track of a shopping list. The program allows users to add, delete and display items. **Press 'play' button below to see the code in action.**
 
 Goals:
 	To understand the basics of event-driven programming;
